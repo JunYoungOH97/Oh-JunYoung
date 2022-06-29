@@ -10,12 +10,11 @@
     🌱 I want to be DevOps Engineer.
     😄 I relieve stress by surfing board and working out.
     📫 How to reach me: qawesdzx@naver.com
-
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact: ... -->
 </p>
 
 </div>
