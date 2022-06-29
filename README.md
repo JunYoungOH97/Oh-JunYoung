@@ -2,25 +2,30 @@
 
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JunYoung%20OH&fontSize=80)
+<p>
+  <a href="https://github.com/Oh-JunYoung">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 JunYoung'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
+  </a>
+
+</p>
 
 
-<!--
-**
-<div align=center>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<p>
+
+``` text
+- 🌱 I’m currently learning Back-End using Spring Boot.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
-</div>
+```
 
--->
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+
+</p>
 
 </div>
 
