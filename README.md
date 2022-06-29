@@ -8,7 +8,7 @@
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunYoung&layout=compact)](https://github.com/Oh-JunYoung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-JunYoung&layout=compact)](https://github.com/Oh-JunYoung)
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=JunYoung&show_icons=true&count_private=true)](https://github.com/Oh-JunYoung)  
 
@@ -40,10 +40,10 @@
 
 <!-- AWS RDS, AWS IAM -->
 <p align="center">
-<img src="https://img.shields.io/badge/AWS%20IAM-1A73E8?style=flat-square&logo=GoogleCloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20RDS-2391E6?style=flat-square&logo=AWSRDS&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FFB925?style=flat-square&logo=WeightsandBiases&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-FFB925?style=flat-square&logo=WeightsandBiases&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-1A73E8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20RDS-2391E6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FFB925?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-FFB925?style=flat-square&logoColor=white"/>
 </p>
   
   ---
@@ -52,8 +52,8 @@
 <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@wodnr0710" style="height : auto; margin-left : 10px; margin right : 10px;"/>
 </a>  -->
 
-<a href="mailto:wodnr0710@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="mailto:qawesdzx@naver.com">
+<img src="https://img.shields.io/badge/Naver-1DDB16?style=flat-square&logo=Naver&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>  
 
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOh-JunYoung&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
