@@ -1,18 +1,14 @@
 ### Hi! Oh-JunYoung 👋
 
-<div align="center">  
+<div>  
 
 <p>
   <a href="https://github.com/Oh-JunYoung">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 JunYoung'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
-
 </p>
 
-
-
 <p>
-
 ```text
 🌱 I’m currently learning Back-End using Spring Boot.
 💬 Ask me about ...
@@ -24,7 +20,6 @@
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-
 </p>
 
 </div>
