@@ -1,7 +1,13 @@
 ### Hi! Oh-JunYoung 👋
 
+<div align="center">  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JunYoung%20OH&fontSize=80)
+
+
 <!--
 **
+<div align=center>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,19 +18,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<div align="center">  
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JunYoung%20OH&fontSize=80)
 </div>
 
+-->
+
+</div>
+
+---
 
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-JunYoung&layout=compact)](https://github.com/Oh-JunYoung)
 
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=JunYoung&show_icons=true&count_private=true)](https://github.com/Oh-JunYoung)  
+[![Oh-JunYoung's Github stats](https://github-readme-stats.vercel.app/api?username=Oh-JunYoung&show_icons=true&count_private=true)](https://github.com/Oh-JunYoung)  
 
 </div>
 
@@ -35,7 +41,7 @@ Here are some ideas to get you started:
 <!-- Computer Vision, Back-End -->
 <p align="center">
 <img src="https://img.shields.io/badge/Computer%20Vision-4374D9?style=plastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Back%20End-1DDB16?style=plastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Back%20End-05988A?style=plastic&logoColor=white"/>
 </p>
 
 <!-- Computer Vision -->
@@ -56,8 +62,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/AWS%20IAM-1A73E8?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20RDS-2391E6?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FFB925?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20S3-FFB925?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-2391E4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-2391E2?style=flat-square&logoColor=white"/>
 </p>
   
   ---
