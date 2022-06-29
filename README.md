@@ -1,21 +1,22 @@
 <div>  
 <p>
   <a href="https://github.com/Oh-JunYoung">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 JunYoung'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 JunYoung'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!! %F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
 </p>
 
 <p>
-
-    🌱 I’m currently learning Back-End using Spring Boot.
-    💬 Ask me about ...
-    📫 How to reach me: ...
-    😄 Pronouns: 
-    ⚡ Fun fact: ...
+    😎 My name is Junyoung OH, who is studying Computer Vision and Back-End.
+    🌱 I want to be DevOps Engineer.
+    😄 I relieve stress by surfing board and working out.
+    📫 How to reach me: <a href="mailto:qawesdzx@naver.com">
+<img src="https://img.shields.io/badge/Naver-1DDB16?style=flat-square&logo=Naver&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!-- - 🔭 I’m currently working on ... -->
+<!-- - 💬 Ask me about ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+<!-- ⚡ Fun fact: ... -->
 </p>
 
 </div>
