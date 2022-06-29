@@ -9,8 +9,7 @@
     😎 My name is Junyoung OH, who is studying Computer Vision and Back-End.
     🌱 I want to be DevOps Engineer.
     😄 I relieve stress by surfing board and working out.
-    📫 How to reach me: <a href="mailto:qawesdzx@naver.com">
-<img src="https://img.shields.io/badge/Naver-1DDB16?style=flat-square&logo=Naver&logoColor=white&link=mailto:wodnr0710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    📫 How to reach me: qawesdzx@naver.com
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 💬 Ask me about ... -->
