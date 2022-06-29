@@ -22,13 +22,10 @@
 
 ---
 
-<div align=center>
+<!--START_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-JunYoung&layout=compact)](https://github.com/Oh-JunYoung)
 
-[![Oh-JunYoung's Github stats](https://github-readme-stats.vercel.app/api?username=Oh-JunYoung&show_icons=true&count_private=true)](https://github.com/Oh-JunYoung)  
-
-</div>
+<!--END_SECTION:waka-->
 
 ---
 
