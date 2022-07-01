@@ -8,7 +8,7 @@
 <p>
 
     😎 My name is Junyoung OH, who is studying Computer Vision and Back-End.
-    🌱 I want to be DevOps Engineer.
+    🌱 I am interested in AI / Cloud Technology.
     😄 I relieve stress by surfing board and working out.
     📫 How to reach me: qawesdzx@naver.com
 <!-- - 🔭 I’m currently working on ... -->
